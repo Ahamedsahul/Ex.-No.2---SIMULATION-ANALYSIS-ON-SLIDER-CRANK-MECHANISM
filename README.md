@@ -37,16 +37,12 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![21](https://github.com/user-attachments/assets/939a5fcf-4feb-42eb-9cfe-48dac951cb03)
-![22](https://github.com/user-attachments/assets/1d64abc9-075e-474f-8d3f-2dc37da469b3)
-![23](https://github.com/user-attachments/assets/620d4653-2ea7-4f25-8c0a-7d809b7a0617)
+![Screenshot 2025-04-24 110640](https://github.com/user-attachments/assets/7eaf6324-d85c-4e31-adbd-f486af54db24)
+![Screenshot 2025-04-24 110308](https://github.com/user-attachments/assets/48928126-ec38-45e8-9349-b4d95bf9f182)
+![WhatsApp Image 2025-04-24 at 11 07 19_194c608a](https://github.com/user-attachments/assets/d2baa735-0a6c-41c4-aaa7-57a11851c12c)
+
 
 
 ### Name: AHAMED SAHUL HAMEED M
